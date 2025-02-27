@@ -1,0 +1,24 @@
+				Site Map
+
+
+1.landing page.html
+
+2.index.html
+
+3.details.html
+  (sub pages)
+    -->details-sl.html
+    -->details-usa.html
+    -->details-china.html
+    -->details-india.html
+
+4.photo gallary.html
+  (sub pages)
+    -->photo-sl.html
+    -->photo-usa.html
+    -->photo-china.html
+    -->photo-india.html
+
+5.about.html
+
+6.contact.html
